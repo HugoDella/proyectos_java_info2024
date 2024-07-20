@@ -1,0 +1,6 @@
+#archivos y carpeta que no se subiran a git#
+.vscode
+bin
+lib
+scr
+README.MD
